@@ -1,5 +1,8 @@
 My name is Aleks. I am a master's student at TUM in Germany. I am studying Mathematics in Data Science and working at the Gagneur Lab on sequence-to-function models of gene expression.
 
+| <a href="https://scholar.google.com/citations?user=oLm3utQAAAAJ&hl=en"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" width="20" height="20" /></a> | <a href="https://www.linkedin.com/in/aleksandr-neverov-099a4a251/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20" height="20" /></a> |
+|---|---|
+
 #### Education
 - Mathematics in Data Science M.Sc., Technical University of Munich, Germany (ongoing)
 - Data Science B.Sc., Catholic University of Eichstätt-Ingolstadt, Germany
